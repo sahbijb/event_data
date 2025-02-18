@@ -1,0 +1,702 @@
+[
+    {
+        "employee_id": "26540367-edc1-4c87-bc7d-5314ab4733b3",
+        "name": "Donna Johnson",
+        "email": "ryanmontes@example.net",
+        "manager_id": null,
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "d49993f9-a0a6-403e-8892-9c4cf846e835",
+        "name": "Laura Myers",
+        "email": "nicholas93@example.com",
+        "manager_id": null,
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "7877a526-ba8f-408a-a6e6-85535b9bb9f1",
+        "name": "Robert Johnson",
+        "email": "xvega@example.org",
+        "manager_id": "d49993f9-a0a6-403e-8892-9c4cf846e835",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "23ae3738-f28e-477a-9cf9-88b79fedad8b",
+        "name": "Jeffrey Spencer",
+        "email": "wcolon@example.org",
+        "manager_id": "7877a526-ba8f-408a-a6e6-85535b9bb9f1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "23bfb7c2-2d85-44df-ae37-9ef286d529cd",
+        "name": "Lori Lee",
+        "email": "tcarter@example.org",
+        "manager_id": "7877a526-ba8f-408a-a6e6-85535b9bb9f1",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "de7a56a8-be92-4cc4-b016-81951edd7535",
+        "name": "Morgan Butler",
+        "email": "ruth58@example.org",
+        "manager_id": "23bfb7c2-2d85-44df-ae37-9ef286d529cd",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "f3b4c4b4-c4ab-4f98-9c44-3b8998b968ab",
+        "name": "Jamie Sanders",
+        "email": "shawn74@example.org",
+        "manager_id": "7877a526-ba8f-408a-a6e6-85535b9bb9f1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "ad52baee-15d6-4926-b779-7b4f29cb94f1",
+        "name": "Rebekah Davis",
+        "email": "horncollin@example.net",
+        "manager_id": "23ae3738-f28e-477a-9cf9-88b79fedad8b",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "4cd104d8-476b-4d17-ba9e-e2d8ca2315b1",
+        "name": "William Porter",
+        "email": "angelamichael@example.net",
+        "manager_id": "ad52baee-15d6-4926-b779-7b4f29cb94f1",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "c458fb6e-5171-4d7d-8611-16f251c2d6f2",
+        "name": "Andrew Ray",
+        "email": "meaganhoward@example.org",
+        "manager_id": "d49993f9-a0a6-403e-8892-9c4cf846e835",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "10cadfbe-8ea4-42b0-a0fe-d67021ad0521",
+        "name": "William Miller",
+        "email": "rebecca41@example.com",
+        "manager_id": "f3b4c4b4-c4ab-4f98-9c44-3b8998b968ab",
+        "department": "HR"
+    },
+    {
+        "employee_id": "7cd60f62-6ddd-4ab0-9d62-126c690d177b",
+        "name": "Brady Moore",
+        "email": "warmstrong@example.com",
+        "manager_id": "d49993f9-a0a6-403e-8892-9c4cf846e835",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "725c1409-8199-4bbd-b64b-26adfaeb1c23",
+        "name": "Jose Miranda",
+        "email": "ljennings@example.org",
+        "manager_id": "d49993f9-a0a6-403e-8892-9c4cf846e835",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "62ed7ca0-feb8-4bc0-8f50-9e3bb7987519",
+        "name": "Ashley Welch",
+        "email": "leericardo@example.net",
+        "manager_id": "4cd104d8-476b-4d17-ba9e-e2d8ca2315b1",
+        "department": "HR"
+    },
+    {
+        "employee_id": "0bfffeb4-b751-4d05-a0ea-fe0a3cd3412f",
+        "name": "Richard Freeman",
+        "email": "cathyadams@example.org",
+        "manager_id": "ad52baee-15d6-4926-b779-7b4f29cb94f1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "7e7b7298-8821-40ec-84fa-0d09f216cc3a",
+        "name": "Loretta Anderson",
+        "email": "joe09@example.com",
+        "manager_id": "4cd104d8-476b-4d17-ba9e-e2d8ca2315b1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "cf839dfa-df4b-4c41-8852-79eb31888f25",
+        "name": "Kayla Cobb",
+        "email": "sullivanjoshua@example.net",
+        "manager_id": "23ae3738-f28e-477a-9cf9-88b79fedad8b",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "80d9018d-5d4f-43e8-b339-ee46e837188c",
+        "name": "Jerry Fischer",
+        "email": "gomezpatty@example.net",
+        "manager_id": "f3b4c4b4-c4ab-4f98-9c44-3b8998b968ab",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "2c38c30a-c15d-43ed-94a9-6d966dbcc539",
+        "name": "Mark Perez",
+        "email": "perkinsandrew@example.com",
+        "manager_id": "7cd60f62-6ddd-4ab0-9d62-126c690d177b",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "26174ac3-83b6-4c58-90d5-03cbc15a3971",
+        "name": "Michael Jackson",
+        "email": "timothywalsh@example.org",
+        "manager_id": "2c38c30a-c15d-43ed-94a9-6d966dbcc539",
+        "department": "HR"
+    },
+    {
+        "employee_id": "f4f89efb-aa1b-40b4-a31b-7de3dc704ef1",
+        "name": "Scott Ellis",
+        "email": "oliverbrandon@example.com",
+        "manager_id": "26540367-edc1-4c87-bc7d-5314ab4733b3",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "e73c641f-bc1c-42bc-8d26-71b4c5f92feb",
+        "name": "Mrs. Tammy Thomas",
+        "email": "breed@example.com",
+        "manager_id": "7877a526-ba8f-408a-a6e6-85535b9bb9f1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "6e09c4ee-3ba7-4a60-b613-1c61e622ba76",
+        "name": "Lindsey Diaz",
+        "email": "rebecca54@example.com",
+        "manager_id": "2c38c30a-c15d-43ed-94a9-6d966dbcc539",
+        "department": "HR"
+    },
+    {
+        "employee_id": "7dbd05e4-3305-4573-b28f-c0902f8e4fe6",
+        "name": "Clarence Harris",
+        "email": "james07@example.org",
+        "manager_id": "2c38c30a-c15d-43ed-94a9-6d966dbcc539",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "dc8bb1e0-396b-4c32-8eea-bf5045be6518",
+        "name": "Stephanie Mahoney",
+        "email": "bmcdonald@example.org",
+        "manager_id": "4cd104d8-476b-4d17-ba9e-e2d8ca2315b1",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "a5179519-37c4-417c-955c-f0951ef2891e",
+        "name": "Kevin Warren",
+        "email": "farmerbernard@example.com",
+        "manager_id": "dc8bb1e0-396b-4c32-8eea-bf5045be6518",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "a5a1b9b4-67d6-4f1a-9adf-92731ff63117",
+        "name": "Amber Webb",
+        "email": "murphymary@example.com",
+        "manager_id": "f4f89efb-aa1b-40b4-a31b-7de3dc704ef1",
+        "department": "HR"
+    },
+    {
+        "employee_id": "4b3315f6-3cb3-418a-82c8-6edb2056168a",
+        "name": "Angela Harrington",
+        "email": "dwagner@example.com",
+        "manager_id": "ad52baee-15d6-4926-b779-7b4f29cb94f1",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "224bdf42-b5e8-439e-9d01-23aa5b372589",
+        "name": "Paul Carter",
+        "email": "patrickpace@example.com",
+        "manager_id": "f3b4c4b4-c4ab-4f98-9c44-3b8998b968ab",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "d4a7c696-fbe1-4b9a-8b6c-cfd05bc2d17d",
+        "name": "Brian Davis",
+        "email": "theresa38@example.org",
+        "manager_id": "4b3315f6-3cb3-418a-82c8-6edb2056168a",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "b1cb3dc5-712d-4126-9bfc-a4f2515a93d6",
+        "name": "Jason Fritz",
+        "email": "christensensamuel@example.net",
+        "manager_id": "4b3315f6-3cb3-418a-82c8-6edb2056168a",
+        "department": "HR"
+    },
+    {
+        "employee_id": "d50994f7-ca0e-4100-a078-17cc3f5ed5d5",
+        "name": "Mary Johnson",
+        "email": "medinamichael@example.com",
+        "manager_id": "b1cb3dc5-712d-4126-9bfc-a4f2515a93d6",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "100d780a-8be8-45fd-8c01-0f8b6135fc2a",
+        "name": "Kathryn Dickerson",
+        "email": "chadsmith@example.com",
+        "manager_id": "23ae3738-f28e-477a-9cf9-88b79fedad8b",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "54d161ec-2dd3-47cf-8a70-7e19608cf377",
+        "name": "Tara Stephens",
+        "email": "westjoseph@example.net",
+        "manager_id": "7dbd05e4-3305-4573-b28f-c0902f8e4fe6",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "13deeac7-7f54-42ca-8fff-2a74aa3fe9a9",
+        "name": "Crystal Williams",
+        "email": "xryan@example.com",
+        "manager_id": "4cd104d8-476b-4d17-ba9e-e2d8ca2315b1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "b1eea9cd-92ed-4b78-a895-8269ce6741d4",
+        "name": "Brianna Conrad",
+        "email": "christine16@example.com",
+        "manager_id": "80d9018d-5d4f-43e8-b339-ee46e837188c",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "6cdf4b55-7f09-4a09-b790-c72aef82940b",
+        "name": "Seth Jackson",
+        "email": "samuel81@example.com",
+        "manager_id": "7e7b7298-8821-40ec-84fa-0d09f216cc3a",
+        "department": "HR"
+    },
+    {
+        "employee_id": "03ccf1fb-31e3-463d-9332-4170d19d1bd1",
+        "name": "Jeffrey Ross",
+        "email": "rscott@example.org",
+        "manager_id": "6cdf4b55-7f09-4a09-b790-c72aef82940b",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "d3cc5460-77aa-4556-b687-6458afbfa288",
+        "name": "Greg Taylor",
+        "email": "longjeffery@example.org",
+        "manager_id": "23bfb7c2-2d85-44df-ae37-9ef286d529cd",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "ec4d694e-8e46-4715-9785-8cd1fdd937da",
+        "name": "Cynthia Underwood",
+        "email": "halexander@example.org",
+        "manager_id": "cf839dfa-df4b-4c41-8852-79eb31888f25",
+        "department": "HR"
+    },
+    {
+        "employee_id": "f00af55b-55d6-47c9-8542-0439ba0b1190",
+        "name": "Jesus Moss",
+        "email": "dianemaynard@example.org",
+        "manager_id": "cf839dfa-df4b-4c41-8852-79eb31888f25",
+        "department": "HR"
+    },
+    {
+        "employee_id": "1011ac90-4871-448c-975b-c6c4e37f2051",
+        "name": "Laura Burgess",
+        "email": "flemingkevin@example.net",
+        "manager_id": "dc8bb1e0-396b-4c32-8eea-bf5045be6518",
+        "department": "HR"
+    },
+    {
+        "employee_id": "ae329f4a-2e72-4027-828c-2c890595c3c0",
+        "name": "Karla White",
+        "email": "colleen43@example.org",
+        "manager_id": "03ccf1fb-31e3-463d-9332-4170d19d1bd1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "29463b9a-95e2-410c-884f-7621bd009d64",
+        "name": "Jose Delgado",
+        "email": "george30@example.org",
+        "manager_id": "7dbd05e4-3305-4573-b28f-c0902f8e4fe6",
+        "department": "HR"
+    },
+    {
+        "employee_id": "d3a9cea0-fc14-4613-8382-fa8298968375",
+        "name": "Sarah Dickson",
+        "email": "cheryl26@example.net",
+        "manager_id": "0bfffeb4-b751-4d05-a0ea-fe0a3cd3412f",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "20fd7ea1-ed4c-41e3-9914-83e32690c432",
+        "name": "Kyle Ortiz",
+        "email": "phillipschristian@example.org",
+        "manager_id": "13deeac7-7f54-42ca-8fff-2a74aa3fe9a9",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "15da72c2-53d1-43fb-be27-fa10b2afd7ff",
+        "name": "Jennifer Smith",
+        "email": "justinlee@example.org",
+        "manager_id": "23bfb7c2-2d85-44df-ae37-9ef286d529cd",
+        "department": "HR"
+    },
+    {
+        "employee_id": "77eb7f31-c6fa-4b7d-8bc3-d9c707b607b6",
+        "name": "Jordan Reynolds MD",
+        "email": "michelle01@example.net",
+        "manager_id": "29463b9a-95e2-410c-884f-7621bd009d64",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "7a0fe0ee-1404-4b18-ab28-bf57ce230287",
+        "name": "Jeffrey Barron",
+        "email": "cchambers@example.org",
+        "manager_id": "6e09c4ee-3ba7-4a60-b613-1c61e622ba76",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "64e121aa-682b-405c-aff5-37f0896f5ac3",
+        "name": "Mary Wilcox",
+        "email": "mweiss@example.com",
+        "manager_id": "d3a9cea0-fc14-4613-8382-fa8298968375",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "4b617331-7209-405f-b7cb-90159bcd9e84",
+        "name": "Dave Reid",
+        "email": "cpayne@example.net",
+        "manager_id": "54d161ec-2dd3-47cf-8a70-7e19608cf377",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "49041fc6-3bb2-4187-9c61-fbe033885210",
+        "name": "Elizabeth Daniels",
+        "email": "shanegarcia@example.net",
+        "manager_id": "10cadfbe-8ea4-42b0-a0fe-d67021ad0521",
+        "department": "HR"
+    },
+    {
+        "employee_id": "2cf389d4-61bf-41fa-ae61-25f01540b6e1",
+        "name": "Patty Jordan",
+        "email": "ncarter@example.org",
+        "manager_id": "7877a526-ba8f-408a-a6e6-85535b9bb9f1",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "34ceb7be-5fdd-4946-a8f1-ae55afaaad33",
+        "name": "Lisa Larson",
+        "email": "maryzavala@example.net",
+        "manager_id": "7877a526-ba8f-408a-a6e6-85535b9bb9f1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "87cb362a-9062-45d2-9e47-cee3527becf4",
+        "name": "Benjamin King",
+        "email": "devinward@example.net",
+        "manager_id": "4b3315f6-3cb3-418a-82c8-6edb2056168a",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "5d04cb1c-ce25-4930-8193-f3c585f930dc",
+        "name": "Andrew Collins IV",
+        "email": "fostermelinda@example.net",
+        "manager_id": "4cd104d8-476b-4d17-ba9e-e2d8ca2315b1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "ba6db18b-f708-4c5d-a01b-10e40293ac1b",
+        "name": "Sherry Keller",
+        "email": "julie90@example.com",
+        "manager_id": "d3cc5460-77aa-4556-b687-6458afbfa288",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "7ce5faad-f3a2-411d-8f21-5830a9d5b887",
+        "name": "Alex Booker",
+        "email": "roselogan@example.org",
+        "manager_id": "ec4d694e-8e46-4715-9785-8cd1fdd937da",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "bf86765b-68ad-45a5-981b-519c81b6cbf1",
+        "name": "Diane Christensen",
+        "email": "crystal07@example.org",
+        "manager_id": "62ed7ca0-feb8-4bc0-8f50-9e3bb7987519",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "0d66b58f-b564-4b7b-b5a1-9c6a3acd239b",
+        "name": "Anthony Daniels",
+        "email": "davidcombs@example.com",
+        "manager_id": "f3b4c4b4-c4ab-4f98-9c44-3b8998b968ab",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "7206694f-ad03-430c-93f0-4b5dad381a2f",
+        "name": "Ricardo Kelley",
+        "email": "morganteresa@example.com",
+        "manager_id": "77eb7f31-c6fa-4b7d-8bc3-d9c707b607b6",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "15e43a69-0555-4313-9c9e-f917a8822059",
+        "name": "Frances Fields",
+        "email": "michaelsmith@example.net",
+        "manager_id": "224bdf42-b5e8-439e-9d01-23aa5b372589",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "7f6dcd79-94f3-4eee-904e-fb6048c0b8c5",
+        "name": "Adrian Davis",
+        "email": "jennifer76@example.net",
+        "manager_id": "de7a56a8-be92-4cc4-b016-81951edd7535",
+        "department": "HR"
+    },
+    {
+        "employee_id": "3902d958-7dbb-4b2a-9527-8d7db819aa4a",
+        "name": "Timothy Farley",
+        "email": "rogerjohnson@example.com",
+        "manager_id": "7e7b7298-8821-40ec-84fa-0d09f216cc3a",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "bbc6ef65-a465-4c72-83cd-2351fcaf1a27",
+        "name": "Donna Rich",
+        "email": "ilopez@example.com",
+        "manager_id": "3902d958-7dbb-4b2a-9527-8d7db819aa4a",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "131b00c1-e930-4a24-ba0f-0d191c84a68f",
+        "name": "Kristin Gray",
+        "email": "bennettsarah@example.org",
+        "manager_id": "2cf389d4-61bf-41fa-ae61-25f01540b6e1",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "626426ce-87b0-4b70-96fa-8c46ced3db46",
+        "name": "Kyle Reeves",
+        "email": "brownbenjamin@example.org",
+        "manager_id": "f3b4c4b4-c4ab-4f98-9c44-3b8998b968ab",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "58060ed4-bcde-4cc3-9219-a50bf082ccac",
+        "name": "Aaron Mcbride",
+        "email": "lisarodriguez@example.com",
+        "manager_id": "03ccf1fb-31e3-463d-9332-4170d19d1bd1",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "aa847d00-721a-4999-bf22-00aad1c004b1",
+        "name": "Traci Miller",
+        "email": "aaron21@example.com",
+        "manager_id": "87cb362a-9062-45d2-9e47-cee3527becf4",
+        "department": "HR"
+    },
+    {
+        "employee_id": "f0080b97-c722-40c6-9b47-d2046c1e6f28",
+        "name": "Joyce Jackson",
+        "email": "rachelschwartz@example.net",
+        "manager_id": "d49993f9-a0a6-403e-8892-9c4cf846e835",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "2ac03fe9-66f9-45fd-8fb8-181e26709cbc",
+        "name": "Adam Grant",
+        "email": "ddixon@example.com",
+        "manager_id": "b1cb3dc5-712d-4126-9bfc-a4f2515a93d6",
+        "department": "HR"
+    },
+    {
+        "employee_id": "3840652c-9cdf-45d7-badf-8262c75b7283",
+        "name": "Benjamin Santiago",
+        "email": "christophermcgee@example.com",
+        "manager_id": "10cadfbe-8ea4-42b0-a0fe-d67021ad0521",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "a5c2741f-dfa0-4194-a7fd-9e148ba0ec3a",
+        "name": "Thomas Hall",
+        "email": "watersjason@example.com",
+        "manager_id": "f0080b97-c722-40c6-9b47-d2046c1e6f28",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "29b4b6e9-8b07-4b2e-a1c8-612cccd2ed13",
+        "name": "Kaitlyn Hudson",
+        "email": "jimmyhall@example.net",
+        "manager_id": "2c38c30a-c15d-43ed-94a9-6d966dbcc539",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "ed1fa080-5f2a-479e-92d7-37d28624acd9",
+        "name": "Melissa York",
+        "email": "wguerrero@example.com",
+        "manager_id": "34ceb7be-5fdd-4946-a8f1-ae55afaaad33",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "8ce00077-831e-47b9-a6aa-ec0d2f3b1fa8",
+        "name": "Tony Banks",
+        "email": "keith91@example.net",
+        "manager_id": "4cd104d8-476b-4d17-ba9e-e2d8ca2315b1",
+        "department": "HR"
+    },
+    {
+        "employee_id": "917f46da-c689-4904-bba0-2612cf1e6397",
+        "name": "Stacy Perez",
+        "email": "edwardswilliam@example.org",
+        "manager_id": "2c38c30a-c15d-43ed-94a9-6d966dbcc539",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "f5dc27e6-2b2a-4795-9409-8d8b78fea888",
+        "name": "Jennifer Vincent",
+        "email": "lewismichael@example.net",
+        "manager_id": "03ccf1fb-31e3-463d-9332-4170d19d1bd1",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "17f5a2d7-b8c7-448f-8daa-45f38633fc97",
+        "name": "Jeffrey Vega",
+        "email": "deannarobertson@example.com",
+        "manager_id": "0d66b58f-b564-4b7b-b5a1-9c6a3acd239b",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "bb1cbad3-470e-4cb1-aa29-66aa7a240e74",
+        "name": "Eduardo Williams",
+        "email": "brownkathryn@example.org",
+        "manager_id": "ba6db18b-f708-4c5d-a01b-10e40293ac1b",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "eee528a8-06b4-4e49-8a6f-24b50a267b9a",
+        "name": "Michael Woods",
+        "email": "jennifer18@example.com",
+        "manager_id": "ec4d694e-8e46-4715-9785-8cd1fdd937da",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "c808f9f2-aa40-490b-a350-8b53afd34d7e",
+        "name": "Amber Brown",
+        "email": "kdaniels@example.com",
+        "manager_id": "13deeac7-7f54-42ca-8fff-2a74aa3fe9a9",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "f65f9195-c861-4567-a80a-780143e62131",
+        "name": "Mr. Larry Michael",
+        "email": "kimberlymontgomery@example.com",
+        "manager_id": "f0080b97-c722-40c6-9b47-d2046c1e6f28",
+        "department": "HR"
+    },
+    {
+        "employee_id": "be1c9137-5f8e-442c-b82f-a0130c6a3ade",
+        "name": "Tricia Diaz",
+        "email": "ashleydonovan@example.org",
+        "manager_id": "626426ce-87b0-4b70-96fa-8c46ced3db46",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "0d8cf1c8-3474-471b-80a0-21f2d20b8282",
+        "name": "Christopher Martin",
+        "email": "armstrongaustin@example.com",
+        "manager_id": "8ce00077-831e-47b9-a6aa-ec0d2f3b1fa8",
+        "department": "Finance"
+    },
+    {
+        "employee_id": "bfd6825a-9cf4-4eaa-b34e-3dd35a949c48",
+        "name": "Kyle Cervantes",
+        "email": "pamelahowell@example.net",
+        "manager_id": "20fd7ea1-ed4c-41e3-9914-83e32690c432",
+        "department": "HR"
+    },
+    {
+        "employee_id": "62c2dec0-32fa-4703-8b3d-0e38f616a576",
+        "name": "Shirley Johnson",
+        "email": "ygonzales@example.org",
+        "manager_id": "2c38c30a-c15d-43ed-94a9-6d966dbcc539",
+        "department": "HR"
+    },
+    {
+        "employee_id": "cea9c53b-b69c-42ad-8e46-aa94f752b9af",
+        "name": "Maria Garcia DVM",
+        "email": "alyssacabrera@example.com",
+        "manager_id": "77eb7f31-c6fa-4b7d-8bc3-d9c707b607b6",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "abfdbcda-e34e-4f22-ab8d-b9d457a550b9",
+        "name": "William Turner",
+        "email": "grobinson@example.org",
+        "manager_id": "626426ce-87b0-4b70-96fa-8c46ced3db46",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "b5a7231d-3de3-4000-ad3c-8055b4ef0e7c",
+        "name": "Sierra Rivera",
+        "email": "johnnygentry@example.org",
+        "manager_id": "725c1409-8199-4bbd-b64b-26adfaeb1c23",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "fc65942a-2ea6-49df-b96f-9f923ad7ada5",
+        "name": "Jessica Warren",
+        "email": "bateskristin@example.com",
+        "manager_id": "03ccf1fb-31e3-463d-9332-4170d19d1bd1",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "8edde131-4dda-472a-a025-a23db115b8ed",
+        "name": "Heather Lee",
+        "email": "shermanamy@example.net",
+        "manager_id": "224bdf42-b5e8-439e-9d01-23aa5b372589",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "a06bd3c8-1eea-4b70-9755-36c1adbf870f",
+        "name": "Wendy Jones",
+        "email": "davidgould@example.com",
+        "manager_id": "23ae3738-f28e-477a-9cf9-88b79fedad8b",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "f647bcfe-5528-41f0-aaf6-225cd2ba7339",
+        "name": "Megan Myers",
+        "email": "robertsmichael@example.net",
+        "manager_id": "17f5a2d7-b8c7-448f-8daa-45f38633fc97",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "7198ca8f-565e-408b-bf00-707aa8cbde3a",
+        "name": "Sherry Fitzpatrick",
+        "email": "chelsea45@example.net",
+        "manager_id": "100d780a-8be8-45fd-8c01-0f8b6135fc2a",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "68207c95-f62b-42ba-9371-1442d87154ef",
+        "name": "Scott Henderson",
+        "email": "lopezroger@example.org",
+        "manager_id": "3840652c-9cdf-45d7-badf-8262c75b7283",
+        "department": "Sales"
+    },
+    {
+        "employee_id": "2c7ede7a-73cf-4c4b-897d-c788494b34e3",
+        "name": "Mr. Edward Jordan",
+        "email": "ffranco@example.org",
+        "manager_id": "a5a1b9b4-67d6-4f1a-9adf-92731ff63117",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "69271d17-b5e0-4b77-9598-351511e8f136",
+        "name": "Joanna Travis",
+        "email": "thester@example.net",
+        "manager_id": "f3b4c4b4-c4ab-4f98-9c44-3b8998b968ab",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": "795a736c-62fc-4c67-b609-3536040e4491",
+        "name": "Cindy Ramirez",
+        "email": "perezmichelle@example.com",
+        "manager_id": "64e121aa-682b-405c-aff5-37f0896f5ac3",
+        "department": "Engineering"
+    },
+    {
+        "employee_id": "66541477-66b9-4485-9a66-8d603ea28449",
+        "name": "Michael Russell",
+        "email": "bsullivan@example.com",
+        "manager_id": "b1cb3dc5-712d-4126-9bfc-a4f2515a93d6",
+        "department": "Marketing"
+    }
+]
